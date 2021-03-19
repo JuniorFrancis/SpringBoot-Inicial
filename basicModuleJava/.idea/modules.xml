@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basicModuleJava.iml" filepath="$PROJECT_DIR$/basicModuleJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.com.junior.antonio.core/br.com.junior.antonio.core.iml" filepath="$PROJECT_DIR$/br.com.junior.antonio.core/br.com.junior.antonio.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.com.junior.antonio.utils/br.com.junior.antonio.utils.iml" filepath="$PROJECT_DIR$/br.com.junior.antonio.utils/br.com.junior.antonio.utils.iml" />
+    </modules>
+  </component>
+</project>
